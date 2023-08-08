@@ -3,8 +3,8 @@
 LES TESTS : MODE DE PRESENTATION SUGGÉRÉ
 Pour mener à bien les tests utilisateurs il faut respecter les 7 règles essentielles rappelées plus bas. Normalement vous devriez effectuer vos tests auprès de 5 utilisateurs, en précisant leurs profils (échantillon représentatif). 
 Pour les besoins de l’exercice sur https://info-tours.fr/ vous me soumettrez seulement vos tests organisés de la manière suivante :  
-8 à 12 tests couvrant 4 à 6 points critiques (pistes d’améliorations repérées),
-Les tests doivent être spécifiquement adaptés au site étudié (éviter les actions ou questions trop vagues qui pourraient être appliquées à n’importe quel site),
+8 à 12 tests couvrant 4 à 6 points critiques (pistes d’améliorations repérées),<br>
+Les tests doivent être spécifiquement adaptés au site étudié (éviter les actions ou questions trop vagues qui pourraient être appliquées à n’importe quel site),<br>
 Les tests doivent recouvrir l’ensemble des vocations du site en temps normal. Ici vous vous concentrerez sur les contenus (organisation/ hiérarchisation), la navigation et le(s) parcours utilisateurs. 
 
 
