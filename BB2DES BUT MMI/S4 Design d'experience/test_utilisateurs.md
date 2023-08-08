@@ -25,19 +25,19 @@ La facilité d'apprentissage
 
 Sur Internet, le temps d'apprentissage du fonctionnement d'un site doit être proche de zéro pour tout visiteur, tant celui-ci aime à trouver facilement ce qu'il est venu chercher. Or, contrairement à ce que l'on trouve dans l'industrie du logiciel, où les "guides de programmation des interfaces utilisateurs" de Microsoft et d'Apple ont fixé des normes relativement bien respectées par les éditeurs, il n'y a pas de standard de présentation unique des sites web. Aussi l'utilisateur doit il réapprendre une nouvelle interface à chaque fois qu'il découvre un nouveau site, et son impatience naturelle (et grandissante !) ne lui donne aucune envie de passer du temps à découvrir le mode d'emploi. 
 Par conséquent, la capacité pour l'utilisateur de comprendre instantanément quelle est la proposition de valeur ajoutée du site, et comment en bénéficier, est essentielle. <br>
-La productivité du site pour les utilisateurs fréquents
+### La productivité du site pour les utilisateurs fréquents 
 Il convient que ses fonctionnalités (délivrance d'information ou services interactifs) permettent à l'utilisateur d'accomplir les tâches qu'il s'était fixées avec un maximum d'efficacité et un minimum d'interrogations ou de stress.
-La prévention des erreurs, et le "pardon"
-Une interface utilisateur, quelle qu'elle soit, doit réduire au maximum les possibilités pour l'utilisateur de faire des erreurs, et doit facilement permettre de réparer les conséquences d'une erreur lorsqu'elle survient. Sur un site comportant une forte interactivité (e-commerce, chat, e-mail, enchères, remplissage de formulaires, etc...), ce critère est essentiel: en effet, un utilisateur qui commet une erreur difficile à réparer gardera d'un site le souvenir d'une très mauvaise expérience-utilisateur... 
+### La prévention des erreurs, et le "pardon"
+Une interface utilisateur, quelle qu'elle soit, doit réduire au maximum les possibilités pour l'utilisateur de faire des erreurs, et doit facilement permettre de réparer les conséquences d'une erreur lorsqu'elle survient. Sur un site comportant une forte interactivité (e-commerce, chat, e-mail, enchères, remplissage de formulaires, etc...), ce critère est essentiel: en effet, un utilisateur qui commet une erreur difficile à réparer gardera d'un site le souvenir d'une très mauvaise expérience-utilisateur... <br>
 D'après Jakob Nielsen, des tests d'utilisabilité, conduits avec une bonne méthodologie et au bon moment dans le planning de votre projet Internet, permettent d'améliorer les performances d'un site dans les proportions suivantes par rapport à un site pour lesquels aucun test ne serait conduit :
-Facilité d'apprentissage : plus de 100 % 
-Efficacité des utilisateurs fréquents : plus de 25% 
-Erreurs : division par plus de 5 du nombre d'erreurs commises par les utilisateurs. 
-(nb. Nielsen cite ces résultats dans le cadre de tests conduits pour des interfaces de logiciels en précisant que sur Internet, les potentiels d'amélioration sont supérieurs)
+* Facilité d'apprentissage : plus de 100 % 
+* Efficacité des utilisateurs fréquents : plus de 25% 
+* Erreurs : division par plus de 5 du nombre d'erreurs commises par les utilisateurs. 
+(nb. Nielsen cite ces résultats dans le cadre de tests conduits pour des interfaces de logiciels en précisant que sur Internet, les potentiels d'amélioration sont supérieurs) <br>
 Ajoutons à cela que l'amélioration de la compréhension initiale d'un site a des conséquences importantes sur la volonté de l'utilisateur de poursuivre son investigation, donc une influence très bénéfique sur le taux de transformation de ses premiers visiteurs en visiteurs réguliers, ceux qui génèrent des revenus. 
 Les bénéfices attendus d'une campagne de tests d'utilisabilité sont donc énormes. Pourtant, mon surf quotidien me montre qu'à l'évidence, 90% des sites professionnels mis en ligne n'ont jamais été correctement testés.  
 Un test utilisateur "standard" est simple.
-7 règles essentielles caractérisent un bon test utilisateur :
+### 7 règles essentielles caractérisent un bon test utilisateur :
 
 1. Un bon test doit se faire avec de vrais utilisateurs, appartenant aux cibles visées par votre site, et surtout pas avec des employés de votre structure (exception : votre intranet, bien sûr) qui connaissent trop bien vos conventions de langages, vos produits, ou votre organisation structurelle, et qui de ce fait trouveront d'usage évident des parties du site peu compréhensibles par de vrais prospects. Plus encore, vous ne devez jamais faire tester votre site par des membres de votre équipe projet, car on ne peut jamais être juge fiable d'un projet dans lequel on est fortement impliqué,
 
