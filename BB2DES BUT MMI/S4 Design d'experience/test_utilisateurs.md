@@ -24,7 +24,7 @@ Cette facilité d'utilisation, ou "utilisabilité", peut se décomposer en trois
 La facilité d'apprentissage
 
 Sur Internet, le temps d'apprentissage du fonctionnement d'un site doit être proche de zéro pour tout visiteur, tant celui-ci aime à trouver facilement ce qu'il est venu chercher. Or, contrairement à ce que l'on trouve dans l'industrie du logiciel, où les "guides de programmation des interfaces utilisateurs" de Microsoft et d'Apple ont fixé des normes relativement bien respectées par les éditeurs, il n'y a pas de standard de présentation unique des sites web. Aussi l'utilisateur doit il réapprendre une nouvelle interface à chaque fois qu'il découvre un nouveau site, et son impatience naturelle (et grandissante !) ne lui donne aucune envie de passer du temps à découvrir le mode d'emploi. 
-Par conséquent, la capacité pour l'utilisateur de comprendre instantanément quelle est la proposition de valeur ajoutée du site, et comment en bénéficier, est essentielle
+Par conséquent, la capacité pour l'utilisateur de comprendre instantanément quelle est la proposition de valeur ajoutée du site, et comment en bénéficier, est essentielle. <br>
 La productivité du site pour les utilisateurs fréquents
 Il convient que ses fonctionnalités (délivrance d'information ou services interactifs) permettent à l'utilisateur d'accomplir les tâches qu'il s'était fixées avec un maximum d'efficacité et un minimum d'interrogations ou de stress.
 La prévention des erreurs, et le "pardon"
@@ -56,12 +56,12 @@ Un test utilisateur "standard" est simple.
 Ce travail devra être effectué en amont (fin de phase de conception et à l’issue de la phase de réalisation, avant la présentation du site au client et la mise en ligne définitive). On évitera des tests utilisateurs intervenant ultérieurement, alors que le site est déjà réalisé et validé. Ils seront largement inutiles, sans parler du coût difficile à évaluer pour l’image de marque de l’entreprise dont le site fonctionnerait mal et connaîtrait des problèmes de fréquentation … Les techniques permettant l’amélioration de votre site web sont plus larges que ce qui est décrit plus haut : on peut proposer du « one to one » ou « face à face » (entretien personnalisé approfondi), mais aussi utiliser les techniques des focus groups ou groupes de discussion … 
 Les thèmes sur lesquels porteront les tests, dépendent aussi de la nature du site et peuvent être plus ciblés, plus précis que ce que je vous propose dans la grille d’observation ci-joint. 
 S’il s’agit d’un site commercial d’une entreprise, ayant une double fonction : site vitrine (amélioration de l’image de l’entreprise/ communication d’image) et site de vente en ligne (optimisation et augmentation rapide de la fréquentation du site et des achats en ligne), vous pourrez notamment proposer des tests autour des thèmes suivants : 
-Image véhiculée par le site
-Performance et niveau de séduction de la page d’accueil
-Ergonomie et aisance de navigation
-Capacité de fidélisation
-Incitation à l’achat, performance de l’approche avant-vente et du processus de commande
-Qualité des contenus et services à valeur ajoutée
-Qualité de la relation clients-prospects
-Performance du processus de recueil d’informations marketing pour améliorer le site 
+* Image véhiculée par le site
+* Performance et niveau de séduction de la page d’accueil
+* Ergonomie et aisance de navigation
+* Capacité de fidélisation
+* Incitation à l’achat, performance de l’approche avant-vente et du processus de commande
+* Qualité des contenus et services à valeur ajoutée
+* Qualité de la relation clients-prospects
+* Performance du processus de recueil d’informations marketing pour améliorer le site 
 
