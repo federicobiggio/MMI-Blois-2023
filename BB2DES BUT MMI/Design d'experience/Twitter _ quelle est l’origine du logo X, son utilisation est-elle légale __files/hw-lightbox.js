@@ -1,0 +1,2 @@
+function autoLoadLightbox(){jQuery("a[href$='.jpg'], a[href$='.jpeg'], a[href$='.gif'], a[href$='.png']").attr('target','_self').attr('title','Agrandir l\'image').addClass('fancybox');jQuery(".fancybox").fancybox()}
+jQuery(document).ready(function($){autoLoadLightbox()})
