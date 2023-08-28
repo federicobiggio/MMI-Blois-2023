@@ -3,3 +3,11 @@
 
 ### S2
 Évaluation individuelle sur livrable : un article de 50 lignes (environ 3000 caractères) sur tout thème lié à la culture numérique, contemporaine ou ancienne
+
+### Programme
+
+* TD 1-2
+* TD 3-4
+* TD 5-6
+* TD 7-8
+* TD 9 (exposés)
