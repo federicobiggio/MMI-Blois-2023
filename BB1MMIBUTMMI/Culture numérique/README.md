@@ -6,8 +6,13 @@
 
 ### Programme
 
+#### S1
 * TD 1-2
 * TD 3-4
 * TD 5-6
 * TD 7-8
 * TD 9 (exposés)
+
+#### S2
+* TD1-2
+* TD 3-4
