@@ -1,6 +1,6 @@
-Évaluation individuelle sur livrable et exposé :
-* Évaluation préliminaire (RGAA + Grille + Tests utilisateurs : intérêts, conseils et exercice)
-* Analyse et implementation des stratégies de gamification
+Évaluation individuelle sur livrable et exposé
+
+Échantillon à choisir : site de streaming / site de location (partagée ou pas) / site de recrutement
 
 ### LIVRABLE
 Le livrable est un fichier PDF (20 pages) qui comprend :
@@ -13,5 +13,10 @@ Le livrable est un fichier PDF (20 pages) qui comprend :
 
 ### EXPOSE
 Exposé (15 minutes + 5 minutes d’échange)
-Échantillon à choisir : site de streaming / site de location (partagée ou pas) / site de recrutement
+
+#### 1ere – 4 et 5 oct
+* Évaluation préliminaire (RGAA + Grille + Tests utilisateurs : intérêts, conseils et exercice)
+
+#### 2eme – dans la semaine du 6 nov
+* Analyse et implementation des stratégies de gamification
 
