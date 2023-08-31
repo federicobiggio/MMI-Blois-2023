@@ -15,7 +15,7 @@ CD:
 * C : 1° le 4 oct et 2° dans la semain du 13 nov
 * D : 1° le 4 oct et 2° dans la semain du 13 nov
   
-les groupes, une fois définis, ne changent pas
+#### Les groupes, une fois définis, ne changent pas
 
 ### LIVRABLE
 Le livrable est un dossier de 10 à 20 pages composé de 4 sections : 
