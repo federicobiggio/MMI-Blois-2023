@@ -7,9 +7,9 @@
 ### Programme
 
 #### S1
-* TD 1-2
+* TD 1-2 – La naissance des technologies de l'information et de l'intelligence artificielle
 * TD 3-4 – exposé TD1 + L’autoreprésentation (filtrée) sur les réseaux sociaux
-* TD 5-6 
+* TD 5-6 – La virtualité
 * TD 7-8 – exposé TD3 + 
 * TD 9 - exposé TD7 + 
 
