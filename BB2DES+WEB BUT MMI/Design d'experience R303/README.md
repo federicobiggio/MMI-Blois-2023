@@ -18,7 +18,7 @@ CD:
 #### Les groupes, une fois définis, ne changent pas
 
 ### LIVRABLE
-Le livrable est un dossier de 10 à 20 pages composé de 4 sections : 
+Le livrable est un dossier de 15 pages composé de 4 sections : 
 1) recherche sur la communauté de pratique 
 2) conception de l'expérience utilisateur 
 3) prototype “ludifié”
